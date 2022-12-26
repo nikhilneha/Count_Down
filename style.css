@@ -101,9 +101,9 @@ span{
         rotate: -20deg;
     }
     75%{
-        rotate: 5deg;
+        rotate: 10deg;
     }
     100%{
-        rotate: -20deg;
+        rotate: -10deg;
     }
 }
